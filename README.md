@@ -194,4 +194,4 @@ This project is intended for educational and learning purposes only.
 
 ## Author
 
-Built by Alextbinobuilds
+Built by Alextbuilds
